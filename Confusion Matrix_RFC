@@ -1,0 +1,6 @@
+,,
+Confusion Matrix,,
+Predicted,Actual,
+,Negative,Positive
+Negative,19,1
+Positive,1,23
